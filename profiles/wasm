@@ -1,0 +1,8 @@
+include(default)
+
+[settings]
+os=Emscripten
+arch=asm.js
+
+[build_requires]
+emsdk/1.39.8

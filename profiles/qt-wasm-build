@@ -1,0 +1,7 @@
+include(default)
+
+[build_requires]
+emsdk/1.39.8
+
+[options]
+qt:target=wasm

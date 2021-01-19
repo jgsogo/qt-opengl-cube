@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cube.png</file>
+        <file>jfrog.png</file>
+        <file>cube_cpp.png</file>
+    </qresource>
+</RCC>

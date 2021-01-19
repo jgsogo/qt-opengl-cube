@@ -1,0 +1,11 @@
+include(default)
+
+[settings]
+os=Emscripten
+arch=asm.js
+
+[build_requires]
+qt/5.15.2
+
+[options]
+qt:target=wasm
